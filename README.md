@@ -2,7 +2,7 @@
 [×KASUMI](https://www.xkasumi.com/) は、「国家公務員就職の情報格差をなくしたい」との思いで作られた、学生が運営する国家総合職を目指す学生向け情報サイトです。
 次のようなWebサービスを展開しています。
 
-| <img src="https://github.com/xkasumi/KSoC/blob/master/preview/xkasumi-top.png" width="700"> | <img src="https://github.com/xkasumi/KSoC/blob/master/preview/xkasumi-media.png" width="300"> | <img src="https://github.com/xkasumi/KSoC/blob/master/preview/xkasumi-calendar.png" width="100"> |
+| <img src="https://github.com/xkasumi/KSoC/blob/master/preview/xkasumi-top.png" height="300"> | <img src="https://github.com/xkasumi/KSoC/blob/master/preview/xkasumi-media.png" height="300"> | <img src="https://github.com/xkasumi/KSoC/blob/master/preview/xkasumi-calendar.png" height="300"> |
 |:--:|:--:|:--:|
 | [トップページ](https://www.xkasumi.com/) (PC) | [霞ヶ関瓦版](https://www.xkasumi.com/media) (スマホ) | [省庁横断カレンダー](https://www.xkasumi.com/calendar) (スマホ) |
 
@@ -67,7 +67,7 @@ xKASUMI WebサイトのAboutページにコントリビューターとして掲�
 
 ## [PR] 新規開発メンバーも募集中！
 xKASUMI 開発チームではxKASUMIのサービス開発を一緒にする仲間を募集しています！  
-すこしでも興味がある、話が聞きたい方は [こちら](https://docs.google.com/forms/d/e/1FAIpQLSe5N1ACCoFK3JjaQknLU8HcA_1NxJ3dQ5St8mxPxBUpE2N3jw/viewform) からご連絡ください。
+すこしでも興味がある、話が聞きたい方は [こちら](https://docs.google.com/forms/d/e/1FAIpQLSe5N1ACCoFK3JjaQknLU8HcA_1NxJ3dQ5St8mxPxBUpE2N3jw/viewform) からご連絡ください。  
 また、開発メンバーとしての活動に興味がある方も、まずはこのプロジェクトへの応募をご案内しています。  
 応募フォームの「新規開発メンバーとしての活動について」にて `興味がある` をご選択ください。
 ### 参考資料
