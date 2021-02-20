@@ -13,12 +13,23 @@
 - **xkasumi-frontend**
     - xKASUMIのWebサイト https://www.xkasumi.com/
     - [霞ヶ関瓦版](https://www.xkasumi.com/media) や [省庁横断カレンダー](https://www.xkasumi.com/calendar) のview
+    - Next.js
+    - TypeScript
+    - Vercel
+    - Contentful
+    - LIFF (LINE Front-end Framework)
+    - GitHub Actions
 - **xkasumi-backend**
     - 主に [省庁横断カレンダー](https://www.xkasumi.com/calendar) のAPI, DBサーバ
+    - Django REST Framework
+    - MySQL
+    - GitHub Actions
 - **xkasumi-bot**
     - [省庁横断カレンダー](https://www.xkasumi.com/calendar) に掲載する各種イベントの情報を自動取得するクローラ
+    - Go
+    - GoQuery
+    - GitHub Actions
 
-技術スタックの詳細については、[xKASUMI エンジニア 募集要項](https://www.notion.so/b772bbf2c9944a4cbe0be1e32ec7d9a9) をご覧ください。
 
 ## 開発のアイデア
 xKASUMIをよりよいサービスに改善するため、すでにいくつかのアイデアがあります。  
@@ -30,6 +41,9 @@ xKASUMIをよりよいサービスに改善するため、すでにいくつか�
 - 学生であること  
 - 年齢・大学・居住地は不問
 - プロジェクトで使用するPC、ネット環境をご自身で用意できる方
+- [xKASUMIのサービス開発](https://github.com/xkasumi/KSoC#xkasumi%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E7%99%BA) で挙げた技術スタックの何かしらについて触った経験がある（趣味・バイト等問わない）
+- Gitを用いた共同開発の経験がある
+- ある程度自走して開発タスクをこなせる
 
 ## 応募方法
 **応募フォーム** からご応募ください！
